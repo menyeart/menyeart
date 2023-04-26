@@ -6,7 +6,7 @@
 
 <h4>
 Software engineering student: <a href='https://turing.edu'>@Turing School of Software & Design</a><br>
-Currently learning: Google Oauth, Rails Active Storage/Amazon S3
+Currently learning: Google Oauth, Rails Active Storage/Amazon S3<br>
 Email: <a href='menyeart1@gmail.com'>@menyeart1@gmail.com</a><br>
 Connect with me: <a href='https://linkedin.com/in/menyeart'>@linkedIn</a>
 </h4>
