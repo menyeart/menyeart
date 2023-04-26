@@ -27,9 +27,10 @@ Connect with me: <a href='https://linkedin.com/in/menyeart'>@linkedIn</a>
 <img align="center" src='https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png' title="REST" alt="REST API Logo" height="30"/>
 </p><br>
 
-<!-- <div align='center'> -->
-<img src='https://github-readme-stats.vercel.app/api?username=menyeart&show_icons=true&theme=dark' alt="Matt's Github Stats">. <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=menyeart&layout=compact&theme=dark' alt="Matt's Top Languages" height='200'>
-<!-- </div> -->
+<div align='center'>
+<img src='https://github-readme-stats.vercel.app/api?username=menyeart&show_icons=true&theme=dark' alt="Matt's Github Stats">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=menyeart&layout=compact&theme=dark' alt="Matt's Top Languages" height='200'>
+</div>
 
 <!--  
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=menyeart&show_icons=true&theme=dark)](https://github.com/menyeart/github-readme-stats)
