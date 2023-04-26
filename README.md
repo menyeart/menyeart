@@ -1,14 +1,13 @@
-<h3 align='center'> text text text text hello <img >
+<h3 '> After ten years as a network operations technician I'm pivoting to a new career in backend software engineering. I'm currently a student at the Turing School of Software and Design focusing on Ruby, Rails and Object Oriented Design.</h3>
 
-<p align='center'>
-text text text more about e<br>
+<p >
+
 </p>
 
-<h4 align='center'>
- software engineering graduate <a href='https://turing.edu'>@Turing School of Software & Design</a><br>
- building <a href='https://github.com/The-Readers-Collective/bookmarked-ui'>Bookmarked</a> + <a 
-email <a href='menyeart1@gmail.com'>@menyeart1@gmail.com</a><br>
-connect with me <a href='https://linkedin.com/in/stephanie-guzman-sdsw'>@linkedIn</a>
+<h4>
+Software engineering student: <a href='https://turing.edu'>@Turing School of Software & Design</a><br>
+Email: <a href='menyeart1@gmail.com'>@menyeart1@gmail.com</a><br>
+Connect with me: <a href='https://linkedin.com/in/menyeart'>@linkedIn</a>
 </h4>
 
 <h3 align="center">Technology Stack</h3>
@@ -28,11 +27,9 @@ connect with me <a href='https://linkedin.com/in/stephanie-guzman-sdsw'>@linkedI
 <img align="center" src='https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png' title="REST" alt="REST API Logo" height="30"/>
 </p><br>
 
-<div align='center'>
-<img src='https://github-readme-stats.vercel.app/api?username=menyeart&show_icons=true&theme=dark' alt="Matt's Github Stats">
-<img src='https://github-readme-streak-stats.herokuapp.com?user=menyeart&theme=dark&date_format=j%20M%5B%20Y%5D' alt="Matt's Github Streak">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=menyeart&layout=compact&theme=dark' alt="Matt's Top Languages" height='200'>
-</div>
+<!-- <div align='center'> -->
+<img src='https://github-readme-stats.vercel.app/api?username=menyeart&show_icons=true&theme=dark' alt="Matt's Github Stats">. <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=menyeart&layout=compact&theme=dark' alt="Matt's Top Languages" height='200'>
+<!-- </div> -->
 
 <!--  
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=menyeart&show_icons=true&theme=dark)](https://github.com/menyeart/github-readme-stats)
