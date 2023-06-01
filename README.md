@@ -34,7 +34,6 @@ Connect with me: <a href='https://linkedin.com/in/menyeart'>@linkedIn</a>
 </div>
 
 <!--  
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=menyeart&show_icons=true&theme=dark)](https://github.com/menyeart/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieguzm&layout=compact&theme=dark)](https://github.com/menyeart/github-readme-stats)
 
