@@ -32,9 +32,3 @@ Connect with me: <a href='https://linkedin.com/in/menyeart'>@linkedIn</a>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=menyeart&layout=compact&theme=dark' alt="Matt's Top Languages" height='200'>
 </div>
 
-<!--  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieguzm&layout=compact&theme=dark)](https://github.com/menyeart/github-readme-stats)
-
-  
-<!--
