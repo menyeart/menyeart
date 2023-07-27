@@ -8,7 +8,7 @@
 Recent Software Engineering Grad: <a href='https://turing.edu'>@Turing School of Software & Design</a><br>
 Currently learning: Google Oauth, Rails Active Storage/Amazon S3<br>
 Email: <a href='menyeart1@gmail.com'>@menyeart1@gmail.com</a><br>
-Connect with me: <a href='https://linkedin.com/in/menyeart'>@linkedIn</a>
+Connect with me: <a href=https://linkedin.com/in/menyeart](https://www.linkedin.com/in/matt-enyeart'>@linkedIn</a>
 </h4>
 
 <h3 align="center">Technology Stack</h3>
