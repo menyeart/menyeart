@@ -29,6 +29,6 @@ Connect with me: <a href='https://www.linkedin.com/in/matt-enyeart/'>@linkedIn</
 </p><br>
 
 <div align='center'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=menyeart&layout=compact&theme=dark' alt="Matt's Top Languages" height='200'>
+<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=menyeart&layout=compact&theme=dark' alt="Matt's Top Languages" height='200'> -->
 </div>
 
