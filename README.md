@@ -1,4 +1,4 @@
-<h3 '> After ten years as a network operations technician I'm pivoting to a new career in backend software engineering. I'm currently a student at the Turing School of Software and Design focusing on Ruby, Rails and Object Oriented Design.</h3>
+<h3 '> After ten years as a network operations technician I'm pivoting to a new career in backend software engineering. I'm a recent graduate of the Turing School of Software and Design focusing on Ruby, Rails and Object Oriented Design.</h3>
 
 <p >
 
