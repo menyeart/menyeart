@@ -1,12 +1,8 @@
-<h3 '> After ten years as a network operations technician I'm pivoting to a new career in backend software engineering. I'm a recent graduate of the Turing School of Software and Design focusing on Ruby, Rails and Object Oriented Design.</h3>
-
-<p >
-
-</p>
+<h3> After ten years as a network operations technician I'm pivoting to a new career in backend software engineering. I'm a recent graduate of the Turing School of Software and Design focusing on Ruby, Rails and Object Oriented Design.</h3>
 
 <h4>
-Recent Software Engineering Grad: <a href='https://turing.edu'>@Turing School of Software & Design</a><br>
-Currently learning: Google Oauth, Rails Active Storage/Amazon S3<br>
+Recent Software Engineering Grad: <a href='https://turing.edu'>Turing School of Software & Design</a><br>
+Currently learning: Python<br>
 Email: <a href='menyeart1@gmail.com'>@menyeart1@gmail.com</a><br>
 Connect with me: <a href='https://www.linkedin.com/in/matt-enyeart/'>@linkedIn</a>
 </h4>
@@ -29,6 +25,6 @@ Connect with me: <a href='https://www.linkedin.com/in/matt-enyeart/'>@linkedIn</
 </p><br>
 
 <div align='center'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=menyeart&layout=compact&theme=dark' alt="Matt's Top Languages" height='200'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=menyeart&layout=pie&theme=dark&size_weight=0.5&count_weight=0.5' alt="Matt's Top Languages" height='200'>
 </div>
 
