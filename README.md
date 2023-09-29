@@ -49,4 +49,6 @@ Connect with me: <a href='https://www.linkedin.com/in/matt-enyeart/'>LinkedIn</a
 <p>&nbsp&nbspAfter several years of not having a notifactions feature, seeing BAH implement it natively in recreation.gov mid project was a little dissapointing. Personal projects are fun, but they're a lot more fun if they're actually used and I was excited to deploy this for my friends and colleagues. Futhermore, the recreation.gov API only allows arround 500 requests an hour whereas you may may need to make requests for many campgrounds every few minutes. Working to scale the application to allow a reasonable amount of users while still making enough requests per campground to be effective in getting a reservation seemed like a real challenge.  </p>
 
 <p>A sample request and response:</p>
-<img width="764" alt="Screenshot 2023-09-29 at 1 54 31 PM" src="https://github.com/menyeart/menyeart/assets/92339276/54fe96ff-e8fe-4be1-8629-f7713b9da99f">
+<img width="700" alt="Screenshot 2023-09-29 at 1 54 31 PM" src="https://github.com/menyeart/menyeart/assets/92339276/54fe96ff-e8fe-4be1-8629-f7713b9da99f">
+<p>Database Tables:</p>
+<img width="700" alt="Screenshot 2023-09-29 at 1 54 31 PM" src="https://github.com/menyeart/menyeart/assets/92339276/b82ff992-4f65-4d61-a8bb-49f938d89ae9">
