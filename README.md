@@ -1,10 +1,10 @@
-<h3> After ten years as a network operations technician I'm pivoting to a new career in backend software engineering. I'm a recent graduate of the Turing School of Software and Design focusing on Ruby, Rails and Object Oriented Design.</h3>
+<h3> Backend software developer with 10 years experience in network operations. Enthusiastic about complex logic, security and green tech.  Recent graduate of the Turing School of Software and Design focusing on Ruby, Rails and Object Oriented Programming.</h3>
 
 <h4>
-Recent Software Engineering Grad: <a href='https://turing.edu'>Turing School of Software & Design</a><br>
+Software Engineering Grad: <a href='https://turing.edu'>Turing School of Software & Design</a><br>
 Currently learning: Python<br>
-Email: <a href='menyeart1@gmail.com'>@menyeart1@gmail.com</a><br>
-Connect with me: <a href='https://www.linkedin.com/in/matt-enyeart/'>@linkedIn</a>
+Email: <a href='menyeart1@gmail.com'>menyeart1@gmail.com</a><br>
+Connect with me: <a href='https://www.linkedin.com/in/matt-enyeart/'>LinkedIn</a>
 </h4>
 
 <h3 align="center">Technology Stack</h3>
@@ -26,10 +26,4 @@ Connect with me: <a href='https://www.linkedin.com/in/matt-enyeart/'>@linkedIn</
 <img align="center" src='https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png' title="Jupyter Notebook" alt="Jupyter Notebook Logo" height="50"/>
 <img align="center" src='https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png' title="JavaScript" alt="JavaScript Logo" height="50"/>
 <img align="center" src='https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png' title="Python" alt="Python Logo" height="50"/>
-
 </p><br>
-
-<div align='center'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=menyeart&layout=pie&theme=dark&size_weight=0.5&count_weight=0.5' alt="Matt's Top Languages" height='300'>
-</div>
-
