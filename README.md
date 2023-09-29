@@ -26,4 +26,27 @@ Connect with me: <a href='https://www.linkedin.com/in/matt-enyeart/'>LinkedIn</a
 <img align="center" src='https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png' title="Jupyter Notebook" alt="Jupyter Notebook Logo" height="50"/>
 <img align="center" src='https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png' title="JavaScript" alt="JavaScript Logo" height="50"/>
 <img align="center" src='https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png' title="Python" alt="Python Logo" height="50"/>
-</p><br>
+</p>
+<br>
+
+<h2> Recent Personal Projects </h2>
+
+<h3>Front Range Freeway Forecast</h3>
+<h4>Overview:</h4>
+<p>&nbsp&nbsp A small service oriented application using Google's Direction Matrix API to forecast the best travel times for users traversing Colorado's I70 during the winter ski season. </p>
+<h4>Comments:</h4>
+<p>&nbsp&nbspMost seasoned skiers know if you get on I70 during ski season before 6AM you'll probably have an OK time, whereas if you get on I70 after 6AM your trip duration might double. Front Range Freeway Forecast was meant to be a way of predicting future drive durations based on historical traffic data in combination with curerrent conditions. Users would then be able to optimize sleeping in vs sitting in traffic via an easy to understand dashboard of drive time predicitions for each resort. Unfortunately, while Google's traffic data is probably vast, there's not much confidence in the predicted drive times. Furthermore, the API's cost cobined with it's terms of service(no caching any drive time duration data) make delpoying this a possibly expensive proposition. </p>
+
+<p>The landing page:</p>
+<img width="1474" alt="Front Range Freeway Forecast Landing Page" src="https://github.com/menyeart/menyeart/assets/92339276/36805c83-ca03-4cf6-ad76-2a0998174d40">
+<p>Forecast Response from the backend:</p>
+<img width="623" alt="Screenshot 2023-09-29 at 2 08 44 PM" src="https://github.com/menyeart/menyeart/assets/92339276/665250f8-e91a-45eb-b5ea-bb2cda03fc3e">
+
+<h3>Site Squirrel</h3>
+<h4>Overview:</h4>
+<p>&nbsp&nbspOriginally designed to be a fully featured service oriented application utilizing Booze Allen Hamiltion's Recreation.gov API, Site Squirrel would let users would set up trips and then receive notifications when hard to find National Park campground reservations became available. Site squirrel was discontinued/transitioned to a backend API only application after recreation.gov recently implemented notifications features natively. </p>
+<h4>Comments:</h4>
+<p>&nbsp&nbspAfter several years of not having a notifactions feature, seeing BAH implement it natively in recreation.gov mid project was a little dissapointing. Personal projects are fun, but they're a lot more fun if they're actually used and I was excited to deploy this for my friends and colleagues. Futhermore, the recreation.gov API only allows arround 500 requests an hour whereas you may may need to make requests for many campgrounds every few minutes. Working to scale the application to allow a reasonable amount of users while still making enough requests per campground to be effective in getting a reservation seemed like a real challenge.  </p>
+
+<p>A sample request and response:</p>
+<img width="764" alt="Screenshot 2023-09-29 at 1 54 31 PM" src="https://github.com/menyeart/menyeart/assets/92339276/54fe96ff-e8fe-4be1-8629-f7713b9da99f">
