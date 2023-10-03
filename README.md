@@ -38,9 +38,10 @@ Connect with me: <a href='https://www.linkedin.com/in/matt-enyeart/'>LinkedIn</a
 <p>&nbsp&nbspMost seasoned skiers know if you get on I70 during ski season before 6AM you'll probably have an OK time, whereas if you get on I70 after 6AM your trip duration might double. Front Range Freeway Forecast was meant to be a way of predicting future drive durations based on historical traffic data in combination with curerrent conditions. Users would then be able to optimize sleeping in vs sitting in traffic via an easy to understand dashboard of drive time predicitions for each resort. Unfortunately, while Google's traffic data is probably vast, there's not much confidence in the predicted drive times. Furthermore, the API's cost combined with its terms of service(no caching any drive time duration data) make delpoying this a possibly expensive proposition. The frontend controller also probably isn't quite RESTful, sending params to the controller without making another backend request was a hacky way of making the page feel dynamic without appending to the DOM or modifying the backend endpoints. </p>
 
 <p>The landing page:</p>
-<img width="1474" alt="Front Range Freeway Forecast Landing Page" src="https://github.com/menyeart/menyeart/assets/92339276/36805c83-ca03-4cf6-ad76-2a0998174d40">
+<img width="1516" alt="Front Range Forecasat Landing Page" src="https://github.com/menyeart/menyeart/assets/92339276/65a67667-c21f-4018-8296-14ed9afbbbe3">
 <p>Forecast Response from the backend:</p>
 <img width="623" alt="Screenshot 2023-09-29 at 2 08 44 PM" src="https://github.com/menyeart/menyeart/assets/92339276/665250f8-e91a-45eb-b5ea-bb2cda03fc3e">
+
 
 <h3>Site Squirrel</h3>
 <h4>Overview:</h4>
