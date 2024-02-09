@@ -1,7 +1,7 @@
 <h3> Software developer with 10 years experience in network operations. Enthusiastic about complex logic, data, security and green-tech.</h3>
 
 <h4>
-Email: <a href='menyeart1@gmail.com'>menyeart1@gmail.com</a><br>
+Email: menyeart1@gmail.com
 Connect with me: <a href='https://www.linkedin.com/in/matt-enyeart/'>LinkedIn</a>
 </h4>
 
