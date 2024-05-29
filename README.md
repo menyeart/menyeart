@@ -1,4 +1,4 @@
-<h3> Software developer with 10 years experience in network operations. Enthusiastic about complex logic, data, security and green-tech.</h3>
+<h3> Software developer</h3>
 
 <h4>
 Email: menyeart1@gmail.com
