@@ -1,10 +1,8 @@
 <h3> Software developer</h3>
 
 <h4>
-Email: menyeart1@gmail.com
 </h4>
 <h4>
-Connect with me: <a href='https://www.linkedin.com/in/matt-enyeart/'>LinkedIn</a>
 </h4>
 
 <h3 align="center">Technology Stack</h3>
